@@ -11,6 +11,13 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
+  - block: news
+    content:
+      title: 📣 News 
+      items: 
+      - Prova 1
+      - Prova 2
   
   - block: contact
     id: contact
