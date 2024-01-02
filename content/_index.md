@@ -15,9 +15,7 @@ sections:
   - block: news
     content:
       title: 📣 News 
-      items: 
-      - Prova 1
-      - Prova 2
+
   
   - block: contact
     id: contact
