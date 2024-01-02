@@ -68,9 +68,7 @@ social:
   - icon: x
     icon_pack: fab
     link: https://twitter.com/MScauda
-    label: Follow me on Twitter
-    display:
-      header: true
+    
 
   - icon: google-scholar
     icon_pack: ai
