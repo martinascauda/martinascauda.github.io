@@ -15,7 +15,9 @@ sections:
     id: news 
     content: 
       title: 📣 News
-      text: e **18.12.2023** I gave my first ever contributed talk on my master's thesis "A Latent Causal Inference Framework for Ordinal Variables" at the [2023 IMS International Conference on Statistics and Data Science (ICSDS)](https://sites.google.com/view/icsds2023) in Lisbon. 
+      text: <ul>
+      <li> **18.12.2023** I gave my first ever contributed talk on my master's thesis "A Latent Causal Inference Framework for Ordinal Variables" at the [2023 IMS International Conference on Statistics and Data Science (ICSDS)](https://sites.google.com/view/icsds2023) in Lisbon. </li>
+      </ul>
     design:
       columns: '1'
         
