@@ -16,7 +16,7 @@ sections:
     content: 
       title: 📣 News
       text: 
-      - ciao  
+      ciao  
     design:
       columns: '1'
         
