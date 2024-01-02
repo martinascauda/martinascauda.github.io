@@ -20,7 +20,6 @@ sections:
       address:
         street: Centre for Mathematical Sciences, Wilberforce Road
         city: Cambridge
-        region: CA
         postcode: 'CB3 0WB'
         country: United Kingdom
         country_code: UK
